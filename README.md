@@ -1,4 +1,4 @@
-![N|Solid](https://drive.google.com/uc?export=view&id=16RwiXXPIjeCHuLjU7zmMFpPvHoJniqJV)
+![N|Solid](https://drive.google.com/uc?export=view&id=16RwiXXPIjeCHuLjU7zmMFpPvHoJniqJV).
 <h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
 <h3 align="center">Data Scientist </h3>
 <p align="center">
