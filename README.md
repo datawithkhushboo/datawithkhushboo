@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=19j9ADO0DQjS1sD816cSXY0EYQQNoWT99" alt="N|Solid" width="800"/>
+<img src="https://drive.google.com/uc?export=view&id=19j9ADO0DQjS1sD816cSXY0EYQQNoWT99" alt="N|Solid" width="1000"/>
 
 
 
