@@ -41,7 +41,7 @@
 <h3 align="lest"> Stats: </h3>
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datawithkhushboo&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datawithkhushboo&theme=dracula)
 
 
 
