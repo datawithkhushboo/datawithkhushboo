@@ -45,8 +45,8 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=datawithkhushboo&theme=tokyonight-duo)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=datawithkhushboo&theme=tokyonight-duo&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=datawithkhushboo&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=datawithkhushboo&theme=chartreuse_dark&utcOffset=8)
 
 
 
