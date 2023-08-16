@@ -45,8 +45,8 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=datawithkhushboo&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=datawithkhushboo&theme=chartreuse_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=datawithkhushboo&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=datawithkhushboo&theme=dracula&utcOffset=8)
 
 
 
