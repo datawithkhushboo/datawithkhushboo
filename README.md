@@ -1,4 +1,10 @@
-<img src="https://drive.google.com/uc?export=view&id=16RwiXXPIjeCHuLjU7zmMFpPvHoJniqJV" alt="N|Solid" width="800"/>
+<img src="https://drive.google.com/uc?export=view&id=19j9ADO0DQjS1sD816cSXY0EYQQNoWT99" alt="N|Solid" width="800"/>
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Khushboo Chaurasiya</h1>
 <h3 align="center">Data Scientist </h3>
 <p align="center">
