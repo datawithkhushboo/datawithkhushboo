@@ -1,23 +1,22 @@
 ![N|Solid](https://drive.google.com/uc?export=view&id=16RwiXXPIjeCHuLjU7zmMFpPvHoJniqJV).
-<h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
+<h1 align="center">Hi 👋, I'm Khushboo Chaurasiya</h1>
 <h3 align="center">Data Scientist </h3>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F73F&width=435&lines=Data+Scientist+Intern+At+Almabetter;Always+Learn+New+Things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD00A2&width=435&lines=Data+Scientist+Intern+At+Almabetter;Always+Learn+New+Things" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="Coding" width ="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
+<img align="right" alt="Coding" width ="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Datawithabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Datawithabhishek" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision, Power BI, Machine Learning**
+- 🌱 I’m currently learning **Power BI, Machine Learning**
 
-- 👯 I’m looking to collaborate on **Deep Learning & Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Data Analysis & Machine Learning Projects**
 
 - 💬 Ask me about **SQL, Machine Learning, Python**
 
-- 📫 How to reach me **datawithabhishek@gmail.com**
+- 📫 How to reach me **sharmakhushboo771@gmail.com**
 
-- ⚡ Fun fact **I have a black belt in problem-solving. With my ninja-like skills, I'm always ready to tackle challenges head-on and provide innovative solutions.**
 
 
 
@@ -45,7 +44,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Datawithabhishek&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=datawithkhushboo&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
 ```python
